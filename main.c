@@ -1,5 +1,3 @@
-// Stéphani Pinheiro Ferreira - 257274
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
